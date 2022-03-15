@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amardeep Biswas
 - 👀 I’m interested in Artificial Intelligence, c programming, Physics;
-- 🌱 I’m currently learning C++, Phython, Golang;
+- 🌱 I’m currently learning C, Phython, Julia, RUST;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
