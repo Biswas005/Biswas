@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Amardeep Biswas
+
+  <h1 style="text-align:center">Hi 👋, I’m Amardeep Biswas</h1>
+  I am a Machine learning engineer
+
 - 👀 I’m interested in Artificial Intelligence, c programming, Physics;
 - 🌱 I’m currently learning C, Phython, Julia, RUST;
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine learning projects.
 - 📫 How to reach me ...
-
-<!---
-Lacia5/Lacia5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
